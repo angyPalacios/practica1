@@ -10,5 +10,6 @@
 </head>
 <body>
 <div class="clase1"></div>
+<div class="clase2"></div>
 </body>
 </html>
